@@ -1,0 +1,5 @@
+FontColor = Color3.fromRGB(255,255,255)
+MainColor = Color3.fromRGB(17, 16, 16)
+AccentColor = Color3.fromRGB(255,0,0)
+BackgroundColor = Color3.fromRGB(14,12,12)
+OutlineColor = Color3.fromRGB(0,0,0)
